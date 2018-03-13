@@ -15,3 +15,10 @@ a)	adding a new class field like course name,
 b)	course ID in which student is enrolled. 
 c)	Also, searching using these fields also can be implemented as well.
 d)	Adding login roles like student/admin to decide for limited access or full access. Student can view just his profile and update some fields like address and email ID. Admin can have full access rights to change student data.
+
+
+
+Please use username: admin
+and password: password to login on the following link to run the application.
+
+http://localhost:8080/spring-mvc/login
