@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:00:59:02 +0100] "GET /spring-mvc/login HTTP/1.1" 200 869 http-bio-8080-exec-6 125
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:00:59:02 +0100] "GET /spring-mvc/style.css HTTP/1.1" 404 949 http-bio-8080-exec-7 10
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:00:25 +0100] "GET /spring-mvc/login HTTP/1.1" 200 554 http-bio-8080-exec-1 844
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:00:25 +0100] "GET /spring-mvc/style.css HTTP/1.1" 404 949 http-bio-8080-exec-2 8
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:05:21 +0100] "POST /spring-mvc/login HTTP/1.1" 200 289 http-bio-8080-exec-4 37
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:06:44 +0100] "GET /spring-mvc/getStudentForm HTTP/1.1" 200 395 http-bio-8080-exec-6 13
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:07:45 +0100] "GET /spring-mvc/showAllStudents HTTP/1.1" 200 985 http-bio-8080-exec-8 327
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:09:46 +0100] "GET /spring-mvc/searchStudentForm HTTP/1.1" 200 783 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:01:12:11 +0100] "POST /spring-mvc/searchStudent HTTP/1.1" 200 640 http-bio-8080-exec-2 129

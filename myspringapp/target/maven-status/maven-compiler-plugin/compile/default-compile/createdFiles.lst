@@ -1,0 +1,7 @@
+com\man\test\dbConfig\DBConfiguration.class
+com\man\test\model\StudentDetail.class
+com\man\test\repository\StudentRepository.class
+com\myspringapp\jee\LoginService.class
+com\myspringapp\controller\LoginController.class
+com\man\test\dbConfig\aaa.class
+com\man\test\model\Student.class
